@@ -1,0 +1,778 @@
+{
+  "typeMatches": [
+    {
+      "matchType": "League",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 9237,
+            "seriesName": "Indian Premier League 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 115149,
+                  "seriesId": 9237,
+                  "seriesName": "Indian Premier League 2025",
+                  "matchDesc": "30th Match",
+                  "matchFormat": "T20",
+                  "startDate": "1744639200000",
+                  "endDate": "1744651800000",
+                  "state": "Complete",
+                  "status": "Chennai Super Kings won by 5 wkts",
+                  "team1": {
+                    "teamId": 966,
+                    "teamName": "Lucknow Super Giants",
+                    "teamSName": "LSG",
+                    "imageId": 389444
+                  },
+                  "team2": {
+                    "teamId": 58,
+                    "teamName": "Chennai Super Kings",
+                    "teamSName": "CSK",
+                    "imageId": 225641
+                  },
+                  "venueInfo": {
+                    "id": 485,
+                    "ground": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium",
+                    "city": "Lucknow",
+                    "timezone": "+05:30",
+                    "latitude": "26.846694",
+                    "longitude": "80.946166"
+                  },
+                  "currBatTeamId": 58,
+                  "seriesStartDt": "1742601600000",
+                  "seriesEndDt": "1748304000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "CSK Won",
+                  "isFantasyEnabled": true
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 166,
+                      "wickets": 7,
+                      "overs": 19.6
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 168,
+                      "wickets": 5,
+                      "overs": 19.3
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "adDetail": {
+            "name": "native_matches",
+            "layout": "native_large",
+            "position": 1
+          }
+        },
+        {
+          "seriesAdWrapper": {
+            "seriesId": 9460,
+            "seriesName": "Pakistan Super League, 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 115653,
+                  "seriesId": 9460,
+                  "seriesName": "Pakistan Super League, 2025",
+                  "matchDesc": "5th Match",
+                  "matchFormat": "T20",
+                  "startDate": "1744642800000",
+                  "endDate": "1744655400000",
+                  "state": "Complete",
+                  "status": "Islamabad United won by 102 runs",
+                  "team1": {
+                    "teamId": 330,
+                    "teamName": "Islamabad United",
+                    "teamSName": "ISU",
+                    "imageId": 172378
+                  },
+                  "team2": {
+                    "teamId": 334,
+                    "teamName": "Peshawar Zalmi",
+                    "teamSName": "PSZ",
+                    "imageId": 172382
+                  },
+                  "venueInfo": {
+                    "id": 25,
+                    "ground": "Rawalpindi Cricket Stadium",
+                    "city": "Rawalpindi",
+                    "timezone": "+05:00",
+                    "latitude": "33.651525",
+                    "longitude": "73.075824"
+                  },
+                  "currBatTeamId": 330,
+                  "seriesStartDt": "1744329600000",
+                  "seriesEndDt": "1747699200000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "ISU Won",
+                  "isFantasyEnabled": true
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 243,
+                      "wickets": 5,
+                      "overs": 19.6
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 141,
+                      "wickets": 10,
+                      "overs": 18.2
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "matchType": "Domestic",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 9369,
+            "seriesName": "County Championship Division Two 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 113343,
+                  "seriesId": 9369,
+                  "seriesName": "County Championship Division Two 2025",
+                  "matchDesc": "8th Match",
+                  "matchFormat": "TEST",
+                  "startDate": "1744365600000",
+                  "endDate": "1744650000000",
+                  "state": "Complete",
+                  "status": "Match drawn",
+                  "team1": {
+                    "teamId": 151,
+                    "teamName": "Gloucestershire",
+                    "teamSName": "GLOUCS",
+                    "imageId": 172218
+                  },
+                  "team2": {
+                    "teamId": 149,
+                    "teamName": "Glamorgan",
+                    "teamSName": "GLAM",
+                    "imageId": 172216
+                  },
+                  "venueInfo": {
+                    "id": 63,
+                    "ground": "County Ground",
+                    "city": "Bristol",
+                    "timezone": "+01:00",
+                    "latitude": "51.477246",
+                    "longitude": "-2.584212"
+                  },
+                  "seriesStartDt": "1743724800000",
+                  "seriesEndDt": "1759104000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Complete"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 546,
+                      "wickets": 10,
+                      "overs": 137.5
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 385,
+                      "wickets": 10,
+                      "overs": 107.5
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 288,
+                      "wickets": 4,
+                      "overs": 88.3,
+                      "isFollowOn": true
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 113325,
+                  "seriesId": 9369,
+                  "seriesName": "County Championship Division Two 2025",
+                  "matchDesc": "6th Match",
+                  "matchFormat": "TEST",
+                  "startDate": "1744365600000",
+                  "endDate": "1744650000000",
+                  "state": "Complete",
+                  "status": "Match drawn",
+                  "team1": {
+                    "teamId": 142,
+                    "teamName": "Northamptonshire",
+                    "teamSName": "NHNTS",
+                    "imageId": 172209
+                  },
+                  "team2": {
+                    "teamId": 143,
+                    "teamName": "Lancashire",
+                    "teamSName": "LANCS",
+                    "imageId": 172210
+                  },
+                  "venueInfo": {
+                    "id": 65,
+                    "ground": "Emirates Old Trafford",
+                    "city": "Manchester",
+                    "timezone": "+01:00",
+                    "latitude": "53.463066",
+                    "longitude": "-2.291301"
+                  },
+                  "seriesStartDt": "1743724800000",
+                  "seriesEndDt": "1759104000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Complete"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 496,
+                      "wickets": 10,
+                      "overs": 143.1
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 228,
+                      "wickets": 10,
+                      "overs": 82.1
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 351,
+                      "wickets": 9,
+                      "overs": 148.6,
+                      "isFollowOn": true
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 113334,
+                  "seriesId": 9369,
+                  "seriesName": "County Championship Division Two 2025",
+                  "matchDesc": "7th Match",
+                  "matchFormat": "TEST",
+                  "startDate": "1744365600000",
+                  "endDate": "1744650000000",
+                  "state": "Complete",
+                  "status": "Match drawn",
+                  "team1": {
+                    "teamId": 145,
+                    "teamName": "Leicestershire",
+                    "teamSName": "LEIC",
+                    "imageId": 172212
+                  },
+                  "team2": {
+                    "teamId": 144,
+                    "teamName": "Derbyshire",
+                    "teamSName": "DERBY",
+                    "imageId": 172211
+                  },
+                  "venueInfo": {
+                    "id": 222,
+                    "ground": "Grace Road",
+                    "city": "Leicester",
+                    "timezone": "+01:00",
+                    "latitude": "52.607861",
+                    "longitude": "-1.142709"
+                  },
+                  "seriesStartDt": "1743724800000",
+                  "seriesEndDt": "1759104000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Complete"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 484,
+                      "wickets": 10,
+                      "overs": 107.2
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 357,
+                      "wickets": 9,
+                      "overs": 79.6,
+                      "isDeclared": true
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 393,
+                      "wickets": 10,
+                      "overs": 95.3
+                    },
+                    "inngs2": {
+                      "inningsId": 4,
+                      "runs": 305,
+                      "wickets": 4,
+                      "overs": 79.6
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "seriesAdWrapper": {
+            "seriesId": 9360,
+            "seriesName": "County Championship Division One 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 112860,
+                  "seriesId": 9360,
+                  "seriesName": "County Championship Division One 2025",
+                  "matchDesc": "7th Match",
+                  "matchFormat": "TEST",
+                  "startDate": "1744365600000",
+                  "endDate": "1744650000000",
+                  "state": "Complete",
+                  "status": "Match drawn",
+                  "team1": {
+                    "teamId": 139,
+                    "teamName": "Nottinghamshire",
+                    "teamSName": "NOTTS",
+                    "imageId": 172206
+                  },
+                  "team2": {
+                    "teamId": 152,
+                    "teamName": "Essex",
+                    "teamSName": "ESS",
+                    "imageId": 172219
+                  },
+                  "venueInfo": {
+                    "id": 18,
+                    "ground": "Trent Bridge",
+                    "city": "Nottingham",
+                    "timezone": "+01:00",
+                    "latitude": "52.936884",
+                    "longitude": "-1.132230"
+                  },
+                  "seriesStartDt": "1743724800000",
+                  "seriesEndDt": "1759104000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Complete"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 347,
+                      "wickets": 10,
+                      "overs": 103.6
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 385,
+                      "wickets": 10,
+                      "overs": 115.1
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 367,
+                      "wickets": 10,
+                      "overs": 105.4
+                    },
+                    "inngs2": {
+                      "inningsId": 4,
+                      "runs": 106,
+                      "wickets": 1,
+                      "overs": 30.6
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 112869,
+                  "seriesId": 9360,
+                  "seriesName": "County Championship Division One 2025",
+                  "matchDesc": "8th Match",
+                  "matchFormat": "TEST",
+                  "startDate": "1744365600000",
+                  "endDate": "1744650000000",
+                  "state": "Complete",
+                  "status": "Match drawn",
+                  "team1": {
+                    "teamId": 148,
+                    "teamName": "Surrey",
+                    "teamSName": "SUR",
+                    "imageId": 172215
+                  },
+                  "team2": {
+                    "teamId": 153,
+                    "teamName": "Hampshire",
+                    "teamSName": "HAM",
+                    "imageId": 172220
+                  },
+                  "venueInfo": {
+                    "id": 12,
+                    "ground": "Kennington Oval",
+                    "city": "London",
+                    "timezone": "+01:00",
+                    "latitude": "51.48368",
+                    "longitude": "-0.114885"
+                  },
+                  "seriesStartDt": "1743724800000",
+                  "seriesEndDt": "1759104000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "Complete"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 253,
+                      "wickets": 10,
+                      "overs": 77.3
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 342,
+                      "wickets": 9,
+                      "overs": 92.6,
+                      "isDeclared": true
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 219,
+                      "wickets": 10,
+                      "overs": 69.2
+                    },
+                    "inngs2": {
+                      "inningsId": 4,
+                      "runs": 300,
+                      "wickets": 5,
+                      "overs": 102.2
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 112857,
+                  "seriesId": 9360,
+                  "seriesName": "County Championship Division One 2025",
+                  "matchDesc": "6th Match",
+                  "matchFormat": "TEST",
+                  "startDate": "1744365600000",
+                  "endDate": "1744650000000",
+                  "state": "Complete",
+                  "status": "Warwickshire won by 1 wkt",
+                  "team1": {
+                    "teamId": 141,
+                    "teamName": "Durham",
+                    "teamSName": "DUR",
+                    "imageId": 172208
+                  },
+                  "team2": {
+                    "teamId": 140,
+                    "teamName": "Warwickshire",
+                    "teamSName": "WARKS",
+                    "imageId": 172207
+                  },
+                  "venueInfo": {
+                    "id": 60,
+                    "ground": "Riverside Ground",
+                    "city": "Chester-le-Street",
+                    "timezone": "+01:00",
+                    "latitude": "54.849531",
+                    "longitude": "-1.56103"
+                  },
+                  "currBatTeamId": 140,
+                  "seriesStartDt": "1743724800000",
+                  "seriesEndDt": "1759104000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "WARKS Won"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 387,
+                      "wickets": 10,
+                      "overs": 107.5
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 276,
+                      "wickets": 8,
+                      "overs": 76.6,
+                      "isDeclared": true
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 325,
+                      "wickets": 10,
+                      "overs": 92.1
+                    },
+                    "inngs2": {
+                      "inningsId": 4,
+                      "runs": 344,
+                      "wickets": 9,
+                      "overs": 92.3
+                    }
+                  }
+                }
+              },
+              {
+                "matchInfo": {
+                  "matchId": 112875,
+                  "seriesId": 9360,
+                  "seriesName": "County Championship Division One 2025",
+                  "matchDesc": "9th Match",
+                  "matchFormat": "TEST",
+                  "startDate": "1744365600000",
+                  "endDate": "1744650000000",
+                  "state": "Complete",
+                  "status": "Sussex won by 260 runs",
+                  "team1": {
+                    "teamId": 41,
+                    "teamName": "Sussex",
+                    "teamSName": "SUS",
+                    "imageId": 172148
+                  },
+                  "team2": {
+                    "teamId": 119,
+                    "teamName": "Somerset",
+                    "teamSName": "SOM",
+                    "imageId": 172199
+                  },
+                  "venueInfo": {
+                    "id": 292,
+                    "ground": "County Ground",
+                    "city": "Hove",
+                    "timezone": "+01:00",
+                    "latitude": "50.830995",
+                    "longitude": "-0.163522"
+                  },
+                  "currBatTeamId": 41,
+                  "seriesStartDt": "1743724800000",
+                  "seriesEndDt": "1759104000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "SUS Won"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 294,
+                      "wickets": 10,
+                      "overs": 74.4
+                    },
+                    "inngs2": {
+                      "inningsId": 3,
+                      "runs": 501,
+                      "wickets": 7,
+                      "overs": 130.6,
+                      "isDeclared": true
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 201,
+                      "wickets": 10,
+                      "overs": 45.6
+                    },
+                    "inngs2": {
+                      "inningsId": 4,
+                      "runs": 334,
+                      "wickets": 10,
+                      "overs": 99.3
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "matchType": "Women",
+      "seriesMatches": [
+        {
+          "seriesAdWrapper": {
+            "seriesId": 9532,
+            "seriesName": "ICC Womens World Cup Qualifier, 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 116344,
+                  "seriesId": 9532,
+                  "seriesName": "ICC Womens World Cup Qualifier, 2025",
+                  "matchDesc": "8th Match",
+                  "matchFormat": "ODI",
+                  "startDate": "1744621200000",
+                  "endDate": "1744650000000",
+                  "state": "Complete",
+                  "status": "Pakistan Women won by 65 runs",
+                  "team1": {
+                    "teamId": 259,
+                    "teamName": "Pakistan Women",
+                    "teamSName": "PAKW",
+                    "imageId": 172312
+                  },
+                  "team2": {
+                    "teamId": 257,
+                    "teamName": "West Indies Women",
+                    "teamSName": "WIW",
+                    "imageId": 172310
+                  },
+                  "venueInfo": {
+                    "id": 26,
+                    "ground": "Gaddafi Stadium",
+                    "city": "Lahore",
+                    "timezone": "+05:00",
+                    "latitude": "31.513467",
+                    "longitude": "74.333375"
+                  },
+                  "currBatTeamId": 259,
+                  "seriesStartDt": "1744156800000",
+                  "seriesEndDt": "1745193600000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "PAKW Won"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 191,
+                      "wickets": 10,
+                      "overs": 49.5
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 126,
+                      "wickets": 10,
+                      "overs": 39.2
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "seriesAdWrapper": {
+            "seriesId": 9656,
+            "seriesName": "Uganda Women tour of Namibia 2025",
+            "matches": [
+              {
+                "matchInfo": {
+                  "matchId": 117557,
+                  "seriesId": 9656,
+                  "seriesName": "Uganda Women tour of Namibia 2025",
+                  "matchDesc": "5th T20I",
+                  "matchFormat": "T20",
+                  "startDate": "1744632000000",
+                  "endDate": "1744644600000",
+                  "state": "Complete",
+                  "status": "Namibia Women won by 1 run",
+                  "team1": {
+                    "teamId": 503,
+                    "teamName": "Namibia Women",
+                    "teamSName": "NAMW",
+                    "imageId": 172552
+                  },
+                  "team2": {
+                    "teamId": 448,
+                    "teamName": "Uganda Women",
+                    "teamSName": "UGAW",
+                    "imageId": 172496
+                  },
+                  "venueInfo": {
+                    "id": 1438052,
+                    "ground": "High Performance Oval",
+                    "city": "Windhoek",
+                    "timezone": "+02:00",
+                    "latitude": "-22.5859618",
+                    "longitude": "17.0436255"
+                  },
+                  "currBatTeamId": 503,
+                  "seriesStartDt": "1744070400000",
+                  "seriesEndDt": "1744848000000",
+                  "isTimeAnnounced": true,
+                  "stateTitle": "NAMW Won"
+                },
+                "matchScore": {
+                  "team1Score": {
+                    "inngs1": {
+                      "inningsId": 1,
+                      "runs": 126,
+                      "wickets": 6,
+                      "overs": 19.6
+                    }
+                  },
+                  "team2Score": {
+                    "inngs1": {
+                      "inningsId": 2,
+                      "runs": 125,
+                      "wickets": 10,
+                      "overs": 19.5
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "filters": {
+    "matchType": [
+      "International",
+      "League",
+      "Domestic",
+      "Women"
+    ]
+  },
+  "appIndex": {
+    "seoTitle": "Live Cricket Score - Scorecard and Match Results",
+    "webURL": "www.cricbuzz.com/live-cricket-scores/"
+  },
+  "responseLastUpdated": "1744660919"
+}

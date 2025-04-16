@@ -1,0 +1,695 @@
+{
+  "scorecard": [
+    {
+      "inningsId": 1,
+      "batsman": [
+        {
+          "id": 9582,
+          "balls": 6,
+          "runs": 6,
+          "fours": 1,
+          "strkRate": "100",
+          "name": "Markram",
+          "outDec": "c Tripathi b Khaleel Ahmed",
+          "isOverseas": true
+        },
+        {
+          "id": 6250,
+          "balls": 25,
+          "runs": 30,
+          "fours": 2,
+          "sixes": 2,
+          "strkRate": "120",
+          "name": "Mitchell Marsh",
+          "outDec": "b Ravindra Jadeja",
+          "inMatchChange": "MOUT",
+          "isOverseas": true,
+          "playingXIChange": "IN"
+        },
+        {
+          "id": 9406,
+          "balls": 9,
+          "runs": 8,
+          "fours": 2,
+          "strkRate": "88.89",
+          "name": "Pooran",
+          "outDec": "lbw b Anshul Kamboj",
+          "isOverseas": true
+        },
+        {
+          "id": 10744,
+          "balls": 49,
+          "runs": 63,
+          "fours": 4,
+          "sixes": 4,
+          "strkRate": "128.57",
+          "name": "Pant",
+          "isCaptain": true,
+          "isKeeper": true,
+          "outDec": "c Dhoni b Matheesha Pathirana"
+        },
+        {
+          "id": 13907,
+          "balls": 17,
+          "runs": 22,
+          "fours": 1,
+          "sixes": 2,
+          "strkRate": "129.41",
+          "name": "Ayush Badoni",
+          "outDec": "st Dhoni b Ravindra Jadeja"
+        },
+        {
+          "id": 14628,
+          "balls": 11,
+          "runs": 20,
+          "sixes": 2,
+          "strkRate": "181.82",
+          "name": "Abdul Samad",
+          "outDec": "run out (Dhoni)"
+        },
+        {
+          "id": 6349,
+          "strkRate": "0",
+          "name": "David Miller",
+          "outDec": "not out",
+          "isOverseas": true
+        },
+        {
+          "id": 8683,
+          "balls": 4,
+          "runs": 6,
+          "fours": 1,
+          "strkRate": "150",
+          "name": "Thakur",
+          "outDec": "c Shaik Rasheed b Matheesha Pathirana"
+        },
+        {
+          "id": 9781,
+          "strkRate": "0",
+          "name": "Avesh Khan"
+        },
+        {
+          "id": 14726,
+          "strkRate": "0",
+          "name": "Akash Deep"
+        },
+        {
+          "id": 1448289,
+          "strkRate": "0",
+          "name": "Digvesh Rathi"
+        },
+        {
+          "id": 14659,
+          "strkRate": "0",
+          "name": "Ravi Bishnoi",
+          "inMatchChange": "MIN",
+          "playingXIChange": "OUT"
+        }
+      ],
+      "bowler": [
+        {
+          "id": 10952,
+          "overs": "4",
+          "wickets": 1,
+          "runs": 38,
+          "economy": "9.5",
+          "name": "Khaleel Ahmed",
+          "balls": 24
+        },
+        {
+          "id": 14598,
+          "overs": "3",
+          "wickets": 1,
+          "runs": 20,
+          "economy": "6.7",
+          "name": "Anshul Kamboj",
+          "balls": 18
+        },
+        {
+          "id": 8512,
+          "overs": "2",
+          "runs": 24,
+          "economy": "12",
+          "name": "Jamie Overton",
+          "balls": 12,
+          "isOverseas": true,
+          "playingXIChange": "IN"
+        },
+        {
+          "id": 587,
+          "overs": "3",
+          "wickets": 2,
+          "runs": 24,
+          "economy": "8",
+          "name": "Ravindra Jadeja",
+          "balls": 18
+        },
+        {
+          "id": 15452,
+          "overs": "4",
+          "runs": 13,
+          "economy": "3.2",
+          "name": "Noor Ahmad",
+          "balls": 24,
+          "isOverseas": true
+        },
+        {
+          "id": 16458,
+          "overs": "4",
+          "wickets": 2,
+          "runs": 45,
+          "economy": "11.2",
+          "name": "Matheesha Pathirana",
+          "balls": 24,
+          "inMatchChange": "MOUT",
+          "isOverseas": true,
+          "playingXIChange": "IN"
+        }
+      ],
+      "fow": {
+        "fow": [
+          {
+            "batsmanId": 9582,
+            "batsmanName": "Markram",
+            "overNbr": 0.6,
+            "runs": 6,
+            "ballNbr": 6
+          },
+          {
+            "batsmanId": 9406,
+            "batsmanName": "Pooran",
+            "overNbr": 3.6,
+            "runs": 23,
+            "ballNbr": 24
+          },
+          {
+            "batsmanId": 6250,
+            "batsmanName": "Mitchell Marsh",
+            "overNbr": 9.3,
+            "runs": 73,
+            "ballNbr": 57
+          },
+          {
+            "batsmanId": 13907,
+            "batsmanName": "Ayush Badoni",
+            "overNbr": 13.4,
+            "runs": 105,
+            "ballNbr": 82
+          },
+          {
+            "batsmanId": 14628,
+            "batsmanName": "Abdul Samad",
+            "overNbr": 19.1,
+            "runs": 158,
+            "ballNbr": 115
+          },
+          {
+            "batsmanId": 10744,
+            "batsmanName": "Pant",
+            "overNbr": 19.2,
+            "runs": 158,
+            "ballNbr": 116
+          },
+          {
+            "batsmanId": 8683,
+            "batsmanName": "Thakur",
+            "overNbr": 19.6,
+            "runs": 166,
+            "ballNbr": 120
+          }
+        ]
+      },
+      "extras": {
+        "legByes": 1,
+        "byes": 1,
+        "wides": 8,
+        "noBalls": 1,
+        "total": 11
+      },
+      "pp": {
+        "powerPlay": [
+          {
+            "id": 1,
+            "ovrFrom": 0.1,
+            "ovrTo": 6.0,
+            "ppType": "mandatory",
+            "run": 42
+          }
+        ]
+      },
+      "score": 166,
+      "wickets": 7,
+      "overs": 20.0,
+      "runRate": 8.3,
+      "batTeamName": "Lucknow Super Giants",
+      "batTeamSName": "LSG",
+      "ballNbr": 120,
+      "rpb": 1.38,
+      "partnership": {
+        "partnership": [
+          {
+            "bat1Id": 9582,
+            "bat1Name": "Markram",
+            "bat1Runs": 6,
+            "bat1fours": 1,
+            "bat2Id": 6250,
+            "bat2Name": "Mitchell Marsh",
+            "totalRuns": 6,
+            "totalBalls": 6
+          },
+          {
+            "bat1Id": 9406,
+            "bat1Name": "Pooran",
+            "bat1Runs": 8,
+            "bat1fours": 2,
+            "bat2Id": 6250,
+            "bat2Name": "Mitchell Marsh",
+            "bat2Runs": 9,
+            "bat2sixes": 1,
+            "totalRuns": 17,
+            "totalBalls": 18
+          },
+          {
+            "bat1Id": 10744,
+            "bat1Name": "Pant",
+            "bat1Runs": 28,
+            "bat1fours": 3,
+            "bat1sixes": 1,
+            "bat2Id": 6250,
+            "bat2Name": "Mitchell Marsh",
+            "bat2Runs": 21,
+            "bat2fours": 2,
+            "bat2sixes": 1,
+            "totalRuns": 50,
+            "totalBalls": 33
+          },
+          {
+            "bat1Id": 10744,
+            "bat1Name": "Pant",
+            "bat1Runs": 7,
+            "bat1fours": 1,
+            "bat2Id": 13907,
+            "bat2Name": "Ayush Badoni",
+            "bat2Runs": 22,
+            "bat2fours": 1,
+            "bat2sixes": 2,
+            "totalRuns": 32,
+            "totalBalls": 26
+          },
+          {
+            "bat1Id": 10744,
+            "bat1Name": "Pant",
+            "bat1Runs": 28,
+            "bat1sixes": 3,
+            "bat2Id": 14628,
+            "bat2Name": "Abdul Samad",
+            "bat2Runs": 20,
+            "bat2sixes": 2,
+            "totalRuns": 53,
+            "totalBalls": 34
+          },
+          {
+            "bat1Id": 10744,
+            "bat1Name": "Pant",
+            "bat2Id": 6349,
+            "bat2Name": "Miller",
+            "totalBalls": 1
+          },
+          {
+            "bat1Id": 8683,
+            "bat1Name": "Thakur",
+            "bat1Runs": 6,
+            "bat1fours": 1,
+            "bat2Id": 6349,
+            "bat2Name": "Miller",
+            "totalRuns": 8,
+            "totalBalls": 4
+          }
+        ]
+      }
+    },
+    {
+      "inningsId": 2,
+      "batsman": [
+        {
+          "id": 22571,
+          "balls": 19,
+          "runs": 27,
+          "fours": 6,
+          "strkRate": "142.11",
+          "name": "Shaik Rasheed",
+          "nickName": "Shaik Rasheed",
+          "outDec": "c Pooran b Avesh Khan",
+          "playingXIChange": "IN"
+        },
+        {
+          "id": 11177,
+          "balls": 22,
+          "runs": 37,
+          "fours": 5,
+          "strkRate": "168.18",
+          "name": "Rachin Ravindra",
+          "nickName": "Rachin Ravindra",
+          "outDec": "lbw b Markram",
+          "isOverseas": true
+        },
+        {
+          "id": 9012,
+          "balls": 10,
+          "runs": 9,
+          "fours": 1,
+          "strkRate": "90",
+          "name": "Rahul Tripathi",
+          "nickName": "Tripathi",
+          "outDec": "c and b Ravi Bishnoi"
+        },
+        {
+          "id": 587,
+          "balls": 11,
+          "runs": 7,
+          "strkRate": "63.64",
+          "name": "Ravindra Jadeja",
+          "nickName": "Ravindra Jadeja",
+          "outDec": "c Markram b Ravi Bishnoi"
+        },
+        {
+          "id": 11195,
+          "balls": 37,
+          "runs": 43,
+          "fours": 3,
+          "sixes": 2,
+          "strkRate": "116.22",
+          "name": "Shivam Dube",
+          "nickName": "Shivam Dube",
+          "outDec": "not out",
+          "inMatchChange": "MIN",
+          "playingXIChange": "OUT"
+        },
+        {
+          "id": 8204,
+          "balls": 8,
+          "runs": 9,
+          "fours": 1,
+          "strkRate": "112.5",
+          "name": "Vijay Shankar",
+          "nickName": "Vijay Shankar",
+          "outDec": "c Avesh Khan b Digvesh Rathi"
+        },
+        {
+          "id": 265,
+          "balls": 11,
+          "runs": 26,
+          "fours": 4,
+          "sixes": 1,
+          "strkRate": "236.36",
+          "name": "MS Dhoni",
+          "nickName": "Dhoni",
+          "isCaptain": true,
+          "isKeeper": true,
+          "outDec": "not out"
+        },
+        {
+          "id": 8512,
+          "strkRate": "0",
+          "name": "Jamie Overton",
+          "nickName": "Jamie Overton",
+          "isOverseas": true,
+          "playingXIChange": "IN"
+        },
+        {
+          "id": 14598,
+          "strkRate": "0",
+          "name": "Anshul Kamboj",
+          "nickName": "Anshul Kamboj"
+        },
+        {
+          "id": 15452,
+          "strkRate": "0",
+          "name": "Noor Ahmad",
+          "nickName": "Noor Ahmad",
+          "isOverseas": true
+        },
+        {
+          "id": 10952,
+          "strkRate": "0",
+          "name": "Khaleel Ahmed",
+          "nickName": "Khaleel Ahmed"
+        },
+        {
+          "id": 16458,
+          "strkRate": "0",
+          "name": "Matheesha Pathirana",
+          "nickName": "Matheesha Pathirana",
+          "inMatchChange": "MOUT",
+          "isOverseas": true,
+          "playingXIChange": "IN"
+        }
+      ],
+      "bowler": [
+        {
+          "id": 8683,
+          "overs": "4",
+          "runs": 56,
+          "economy": "14",
+          "name": "Shardul Thakur",
+          "nickName": "Thakur",
+          "balls": 24
+        },
+        {
+          "id": 14726,
+          "overs": "1",
+          "runs": 13,
+          "economy": "13",
+          "name": "Akash Deep",
+          "nickName": "Akash Deep",
+          "balls": 6
+        },
+        {
+          "id": 1448289,
+          "overs": "4",
+          "wickets": 1,
+          "runs": 23,
+          "economy": "5.8",
+          "name": "Digvesh Singh Rathi",
+          "nickName": "Digvesh Rathi",
+          "balls": 24
+        },
+        {
+          "id": 9781,
+          "overs": "3.3",
+          "wickets": 1,
+          "runs": 32,
+          "economy": "9.1",
+          "name": "Avesh Khan",
+          "nickName": "Avesh Khan",
+          "balls": 21
+        },
+        {
+          "id": 14659,
+          "overs": "3",
+          "wickets": 2,
+          "runs": 18,
+          "economy": "6",
+          "name": "Ravi Bishnoi",
+          "nickName": "Ravi Bishnoi",
+          "balls": 18,
+          "inMatchChange": "MIN",
+          "playingXIChange": "OUT"
+        },
+        {
+          "id": 9582,
+          "overs": "4",
+          "wickets": 1,
+          "runs": 25,
+          "economy": "6.2",
+          "name": "Aiden Markram",
+          "nickName": "Markram",
+          "balls": 24,
+          "isOverseas": true
+        }
+      ],
+      "fow": {
+        "fow": [
+          {
+            "batsmanId": 22571,
+            "batsmanName": "Shaik Rasheed",
+            "overNbr": 4.5,
+            "runs": 52,
+            "ballNbr": 29
+          },
+          {
+            "batsmanId": 11177,
+            "batsmanName": "Rachin Ravindra",
+            "overNbr": 7.6,
+            "runs": 74,
+            "ballNbr": 48
+          },
+          {
+            "batsmanId": 9012,
+            "batsmanName": "Rahul Tripathi",
+            "overNbr": 8.5,
+            "runs": 76,
+            "ballNbr": 53
+          },
+          {
+            "batsmanId": 587,
+            "batsmanName": "Ravindra Jadeja",
+            "overNbr": 12.2,
+            "runs": 96,
+            "ballNbr": 74
+          },
+          {
+            "batsmanId": 8204,
+            "batsmanName": "Vijay Shankar",
+            "overNbr": 14.6,
+            "runs": 111,
+            "ballNbr": 90
+          }
+        ]
+      },
+      "extras": {
+        "legByes": 1,
+        "wides": 8,
+        "noBalls": 1,
+        "total": 10
+      },
+      "pp": {
+        "powerPlay": [
+          {
+            "id": 2,
+            "ovrFrom": 0.1,
+            "ovrTo": 6.0,
+            "ppType": "mandatory",
+            "run": 59
+          }
+        ]
+      },
+      "score": 168,
+      "wickets": 5,
+      "overs": 19.3,
+      "runRate": 8.62,
+      "batTeamName": "Chennai Super Kings",
+      "batTeamSName": "CSK",
+      "ballNbr": 117,
+      "rpb": 1.44,
+      "partnership": {
+        "partnership": [
+          {
+            "bat1Id": 22571,
+            "bat1Name": "Shaik Rasheed",
+            "bat1Runs": 27,
+            "bat1fours": 6,
+            "bat2Id": 11177,
+            "bat2Name": "Ravindra",
+            "bat2Runs": 23,
+            "bat2fours": 4,
+            "totalRuns": 52,
+            "totalBalls": 29,
+            "bat1Balls": 19,
+            "bat2Balls": 10,
+            "bat1Ones": 3,
+            "bat1Boundaries": 6,
+            "bat2Ones": 5,
+            "bat2Twos": 1,
+            "bat2Boundaries": 4
+          },
+          {
+            "bat1Id": 9012,
+            "bat1Name": "Tripathi",
+            "bat1Runs": 8,
+            "bat1fours": 1,
+            "bat2Id": 11177,
+            "bat2Name": "Ravindra",
+            "bat2Runs": 14,
+            "bat2fours": 1,
+            "totalRuns": 22,
+            "totalBalls": 19,
+            "bat1Balls": 7,
+            "bat2Balls": 12,
+            "bat1Ones": 4,
+            "bat1Boundaries": 1,
+            "bat2Ones": 4,
+            "bat2Twos": 3,
+            "bat2Boundaries": 1
+          },
+          {
+            "bat1Id": 9012,
+            "bat1Name": "Tripathi",
+            "bat1Runs": 1,
+            "bat2Id": 587,
+            "bat2Name": "Jadeja",
+            "bat2Runs": 1,
+            "totalRuns": 2,
+            "totalBalls": 5,
+            "bat1Balls": 3,
+            "bat2Balls": 2,
+            "bat1Ones": 1,
+            "bat2Ones": 1
+          },
+          {
+            "bat1Id": 11195,
+            "bat1Name": "Shivam Dube",
+            "bat1Runs": 13,
+            "bat1sixes": 1,
+            "bat2Id": 587,
+            "bat2Name": "Jadeja",
+            "bat2Runs": 6,
+            "totalRuns": 20,
+            "totalBalls": 21,
+            "bat1Balls": 12,
+            "bat2Balls": 9,
+            "bat1Ones": 5,
+            "bat1Twos": 1,
+            "bat1Sixers": 1,
+            "bat2Ones": 6
+          },
+          {
+            "bat1Id": 11195,
+            "bat1Name": "Shivam Dube",
+            "bat1Runs": 4,
+            "bat2Id": 8204,
+            "bat2Name": "Shankar",
+            "bat2Runs": 9,
+            "bat2fours": 1,
+            "totalRuns": 15,
+            "totalBalls": 16,
+            "bat1Balls": 8,
+            "bat2Balls": 8,
+            "bat1Ones": 4,
+            "bat2Ones": 5,
+            "bat2Boundaries": 1
+          },
+          {
+            "bat1Id": 11195,
+            "bat1Name": "Shivam Dube",
+            "bat1Runs": 26,
+            "bat1fours": 3,
+            "bat1sixes": 1,
+            "bat2Id": 265,
+            "bat2Name": "Dhoni",
+            "bat2Runs": 26,
+            "bat2fours": 4,
+            "bat2sixes": 1,
+            "totalRuns": 57,
+            "totalBalls": 28,
+            "bat1Balls": 17,
+            "bat2Balls": 11,
+            "bat1Ones": 8,
+            "bat1Boundaries": 3,
+            "bat1Sixers": 1,
+            "bat2Ones": 4,
+            "bat2Boundaries": 4,
+            "bat2Sixers": 1
+          }
+        ]
+      }
+    }
+  ],
+  "isMatchComplete": true,
+  "appIndex": {
+    "seoTitle": "Cricket scorecard - LSG vs CSK 30th Match,Indian Premier League 2025 | Cricbuzz.com",
+    "webURL": "http://www.cricbuzz.com/live-cricket-scorecard/115149/lsg-vs-csk-30th-match-indian-premier-league-2025"
+  },
+  "status": "Chennai Super Kings won by 5 wkts",
+  "responseLastUpdated": "1744661061"
+}
